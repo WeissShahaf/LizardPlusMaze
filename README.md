@@ -9,3 +9,4 @@ repository contains files needed to run & control plus maze arena for lizards fr
 
 
 
+![plusmaze](https://github.com/WeissShahaf/LizardPlusMaze/assets/45653608/0cb9ca1b-efec-4d89-8ac5-bc9618b85bff)
